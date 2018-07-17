@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# notify that build is complete
+
+say build oawha tou
+
+exit 0
